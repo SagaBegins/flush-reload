@@ -1,0 +1,11 @@
+*.o
+*.so
+*.log
+web
+test
+probe
+autoprobe
+probe1
+probe2
+test.png
+__pycache__/
